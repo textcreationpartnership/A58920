@@ -1,0 +1,350 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Seasonable considerations</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58920</idno>
+            <idno type="STC">Wing S2224</idno>
+            <idno type="STC">ESTC R34062</idno>
+            <idno type="EEBO-CITATION">13691494</idno>
+            <idno type="OCLC">ocm 13691494</idno>
+            <idno type="VID">101401</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58920)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101401)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1047:38)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Seasonable considerations</title>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed at end: The true and orthodox sons of the Church of England.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Imperfect: pages cropped with slight loss of print.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Apologetic works.</term>
+               <term>Nonjurors.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:101401:1"/>
+            <pb n="1" facs="tcp:101401:1" rendition="simple:additions"/>
+            <head>
+               <hi>Seaſonable</hi> CONSIDERATIONS.</head>
+            <p>SINCE the world is not grown too wiſe for Inſtruction, nor Chriſtians ſo deified, as to be freed from Infirmity: Since ſome things may be overlookt, becauſe they are in Books ſo little conſulted, and others forgot, by reaſon of the length of time which happens betwixt being admitted to Benefi<g ref="char:EOLhyphen"/>ces, and that wherein the obſervance of Canons and Conſtitu<g ref="char:EOLhyphen"/>tions poſtpones them to the preſerving of, or elſe (which is rarer) prefers them before our worldly Intereſt: And ſince an Eccleſi<g ref="char:EOLhyphen"/>aſtical Commiſſion is on foot, for the bringing the Model of the Church of <hi>England,</hi> to Copy of that of <hi>Amſterdam;</hi> it may not be altogether amiſs, either for inſtruction, reminding, or ſhaming thoſe who have (the ſame honor the <hi>Libellatici</hi> of old had) the Power now in their hands of giving away their Church, by pre<g ref="char:EOLhyphen"/>ſenting their Prince with the Fences and Defence of it; to copy to them ſome of thoſe Canons which their Forefathers (under the un<g ref="char:EOLhyphen"/>aſperſed <hi>James</hi> I.) took to be the ſureſt Rules for the preſervation of the Church of
+<hi>England,</hi> and let them ſee, how they will agree with thoſe things they are to compaſs now for its Deſtruction.</p>
+            <p>
+               <note place="margin">Ca<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note>
+               <hi>Whoſoever hereafter ſhall affirm, That the Church of</hi> England, <hi>as by Law eſtabliſhed, is not Orthodox and Apoſtolical, delivering and following the Doctrine of the Apoſtles, let him be excommunicated</hi> ipſo facto, <hi>not to be reſtored, but by the Arch-Biſhop, and that after he hath repented, and publickly revoked that impious Error.</hi>
+            </p>
+            <p>
+               <note place="margin">Ca<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note>
+               <hi>Whoſoever hereafter ſhall affirm, the Form of Liturgy, as by Law eſtabliſhed, in the Church of</hi> England,
+<hi>and comprehended in the Book of publick Prayers, and of the Adminiſtration of the Sa<g ref="char:EOLhyphen"/>craments, to be a corrupt, ſuperſtitious, or unlawful Worſhip of God, or to contain any thing in it contrary to the Canon of Scri<g ref="char:EOLhyphen"/>pture, let him be excommunicated</hi> ipſo facto, <hi>and not reſtored but by <pb n="2" facs="tcp:101401:2"/>his Dioceſan Biſhop or the Arch-Biſhop, and that after he hath re<g ref="char:EOLhyphen"/>pented, and publickly revoked that impious Error.</hi>
+            </p>
+            <p>
+               <note place="margin">m. V.</note> 
+               <hi>Whoſoever hereafter ſhall affirm, any of the</hi> 39 <hi>Articles, con<g ref="char:EOLhyphen"/>ſented to by the Arch-Biſhops and Biſhops of both Provinces,</hi> &amp;c. <hi>(to take away all variety of Opinions, and to confirm and eſtabliſh Conſent in Matters of Faith) to be in any part ſuperſtitious or erro<g ref="char:EOLhyphen"/>neous, or any thing of that nature, ſo that he cannot with a ſafe Conſcience ſubſcribe to the truth of them, let him be excommunicated</hi> ipſo facto, &amp;c. <hi>as in the Firſt.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="VI"/>
+               <hi>Whoſoever hereafter ſhall affirm, That the Rites and Ceremonies of the Church of</hi> England, <hi>eſtabliſh'd by Law, are impious, anti<g ref="char:EOLhyphen"/>chriſtian, or ſuperſtitious, or any thing of that nature, ſo that pious and religious Men, tho commanded by lawful Authority, cannot ap<g ref="char:EOLhyphen"/>prove or obſerve them, or (as occaſion offers) ſubſcribe to them, let him be excommunicated</hi> ipſo facto, <hi>and not abſolved, till he hath repented, and publickly revoked thoſe impious Errors.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="VII"/>
+               <hi>Whoſoever hereafter ſhall affirm, The Government and Diſcipline of the Church of</hi> England, <hi>under the King's Majeſty, by Arch-Biſhops,</hi> &amp;c. <hi>to be Antichriſtian, and contrary to the Word of God, let him be excommunicated</hi> ipſo facto,
+<hi>and not abſolved, till he hath repented, and publickly revoked this impious Error.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="VIII"/>
+               <hi>Whoſoever hereafter ſhall affirm or teach, The Form and Rite of Ordaining and Inaugurating Biſhops, Prieſts, and Deacons, to con<g ref="char:EOLhyphen"/>tain any thing in it contrary to the Word of God; and that all thoſe Biſhops,</hi> &amp;c. <hi>ordained after that manner, not to be rightly ordained, neither by themſelves nor by others are to be taken for Biſhops,</hi> &amp;c. <hi>before that they have received other Ordination to thoſe holy Offices, let him be excommunicated</hi> ipſo, facto, &amp;c.
+<hi>as in Can.</hi> 6.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="X"/>
+               <hi>Whoſoever hereafter ſhall ſegregate themſelves from the Com<g ref="char:EOLhyphen"/>munion of Saints, ſuch as is in the. Church of</hi> England <hi>approved from the Rules of the Apoſtles, and conſociating by a new Covenant <pb n="3" facs="tcp:101401:2"/>of Fraternity, count thoſe Chriſtians who conform to the Doctrine, Diſcipline, Rites and Ceremonies of the Church of</hi> England, <hi>pro<g ref="char:EOLhyphen"/>fane, and unworthy to be communicated within the Chriſtian Profeſ<g ref="char:EOLhyphen"/>ſion, let them be excommunicated</hi> ipſo facto,
+<hi>and not reſtored but by the Arch-Biſhop, and that after they have repented, and pub<g ref="char:EOLhyphen"/>lickly revoked thoſe impious Errors.</hi>
+            </p>
+            <p>
+               <note place="margin">Can.</note>
+               <hi>Whoſoever hereafter ſhall affirm, That thoſe Miniſters who re<g ref="char:EOLhyphen"/>fuſe to ſubſcribe to the Form and Manner of Divine Worſhip ap<g ref="char:EOLhyphen"/>pointed in the Church of</hi> England, <hi>and preſcribed in the Book of publick Form of Prayer, and their Followers may aſſume to them. ſelves the Name and Title of another Church, which it not eſtabliſh'd by Law; and that ſhall dare to affirm in publick, that their pretend<g ref="char:EOLhyphen"/>ed Church has long groaned under the Burden of certain Grievances, impoſed on them, and their aforeſaid Members, by the Church of</hi> England, <hi>and by its Decrees and Sanctions eſtabliſhed by Law, let them be excommunicated</hi> ipſo facto, <hi>and not abſolved, before that they have repented, and publickly revoked thoſe impious Errors.</hi>
+            </p>
+            <p>
+               <note place="margin">Ca<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> XXX.</note>
+               <hi>Let no one be admitted into Holy Orders, or any Eccleſiaſtical Benefice by Inſtitution or Collation, or to exerciſe the Office of Preacher, Prelector, or Catechiſt in either of the <g ref="char:V">Ʋ</g>niverſities, or in any Cathedral, or Collegiate-Church, or City, or Market-Town, or in a Parochial-Church or Chappel, or any other place of this Kingdom, unleſs he hath before ſubſcribed to theſe following Articles,</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>That the Book of the publick Liturgy, and of Ordaining and Conſecrating Biſhops, Prieſts and Deacons, contains in it no<g ref="char:EOLhyphen"/>thing contrary to the Word of God, but that it is lawful to uſe the ſame; and that he in publick Prayers and Admini<g ref="char:EOLhyphen"/>ſtring the Sacraments, will always obſerve that Form which is preſcribed in the ſaid Book, and no other.</hi>
+               </item>
+               <item>
+                  <hi>That he altogether approves of that Book of the Articles of Re<g ref="char:EOLhyphen"/>ligion, which was conſented to by the Arch-Biſhops,</hi> &amp;c. Anno
+1561. <hi>and that all and every of thoſe Articles contain'd in the ſame Book</hi> (<hi>which are</hi> 39. <hi>beſides the Ratification</hi>) <hi>he acknowledges to he conſentaneous to the Word of God.</hi>
+               </item>
+            </list>
+            <pb n="4" facs="tcp:101401:3"/>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>an. xviii.</note>
+               <hi>If any Miniſter, after his ſubſcribing to the aforeſaid Articles, ſhall omit to uſe that Form of Liturgy, or the Rites and Ceremonies whatſoever, appointed in the Book of Publick Prayers, let him he ſuſpended; and unleſs he, within a Month amend and ſubmit him<g ref="char:EOLhyphen"/>ſelf, let him be excommunicated; but if after another Month he continue contumacious, let him be removed from the ſacred Mi<g ref="char:EOLhyphen"/>niſtry.</hi>
+            </p>
+            <p>I doubt not, but the bare reading theſe over, every one's mind (eſpecially thoſe for whom this is now deſigned) has conceiv'd more Queſtions, and rais'd more Diſſatisfactions againſt the de<g ref="char:EOLhyphen"/>ſign of this Eccleſiaſtical Commiſſion, than the Actors under it will be able to ſatisfie. And the Letter to a Friend, con<g ref="char:EOLhyphen"/>taining ſome Queries about this Commiſſion, has propoſed ſo many things to them to be anſwered; as they will ſhorten my deſign, and confine me to a few things barely referring to theſe Canons.</p>
+            <p>Not therefore to meddle, at leaſt as to them, with the Au<g ref="char:EOLhyphen"/>thority of their Commiſſion, nor to examin by what Canon (ſince Intereſt is the great Rule) they dare to deliberate, con<g ref="char:EOLhyphen"/>ſult, and propoſe Amendments and Alterations to our eſtabliſh'd Church of
+<hi>England:</hi> I ſhall only deſire to know, whether there are not thoſe Diſſenters now in this Kingdom, againſt whom this Third Canon is directed; for no one can believe, that they all acknowledg the Church of
+<hi>England</hi> to be Orthodox and Apoſtolical; for if they did, there would be no ground for them to deſire any Alterations, nor you to grant them: But we very well know, that we have many Sects concluded un<g ref="char:EOLhyphen"/>der this Canon, whom therefore by force of it, we know to be excommunicated; and is it your deſign, that all theſe ſhall be brought into the Church? If not all, whom will you exclude? By what Rules will you proceed impartially to joyn ſome of the Diſſenters to it, and to cut others off? For all Sects (ma<g ref="char:EOLhyphen"/>ny being Contraries) cannot be comprehended under the ſame things. Muſt therefore an Anarchy be ſet up, and every one believe as he pleaſes? Muſt the Presbyterian controverted Do<g ref="char:EOLhyphen"/>ctrines <pb n="5" facs="tcp:101401:3"/>be ſtruck out of the Articles and Doctrines of the Church, and not the Anabaptiſt (who perhaps has better grounds for his Principles)? Or how will you do with all Sects that de<g ref="char:EOLhyphen"/>ny our Doctrines to be Apoſtolical and Orthodox? What ſort of a Church muſt that be, which muſt include all Oppoſites? What Order, what Doctrines muſt conſtitute that one, which muſt conſiſt of ſo many Congregations differing in both?</p>
+            <p>Do you not alſo know of many Sects that are directly ſtruck by the Fourth Canon? Are there not ſome againſt any Form of Prayers? And others that count ours ſuperſtitious, <hi>&amp;c?</hi> What Methods therefore can be taken with both theſe? 'Tis not a bare giving up our preſent, but all ſet Forms, that will recon<g ref="char:EOLhyphen"/>cile ſome; and then that diſpleaſes others; and ſo <hi>vice versâ.</hi> And what neceſſity of condeſcenſion can there be in this Point; where the giving theſe away, is only to pleaſe the peeviſh Hu<g ref="char:EOLhyphen"/>mors of thoſe who can joyn in 'em; and the giving away, all to gratifie thoſe whom they ſcarce will allow at other times to look like a Chriſtian Church. But all this will not do to win all neither, unleſs they will decry the Uſe of the Lords Prayer, with multitudes of them who think it now a Sin to uſe it. It looks ſtrange to ſome Men, that thoſe who have maintained the preſent Liturgy, as the moſt perfect, moſt advantageous, and beſt that is or ever was in the whole Chriſtian World; ſhould now be for the correcting it, to ſuit it to their Humors, whoſe very Reaſons they before thought, and made appear to be frivolous; nay, which they themſelves, as Occaſion ſerved, or Argument preſt, have own'd to be ſo.</p>
+            <p>Do you know none, who think not one of our Articles to be either ſuperſtitious or erroneous, or ſomething of that na<g ref="char:EOLhyphen"/>ture? If this be the humor and opinion of ſome Sects, which are now to be reconcil'd to the Church; what Methods will you follow? Muſt thoſe Articles, <hi>Can.</hi> 5. (the deſign of whoſe framing 'em, was to take away all variety of Opinions, and to confirm and eſtabliſh Conſent in Matters of Faith) Muſt thoſe very Articles, I ſay, be now given away, that we may all agree in 'em the better? Can variety of Opinions be re<g ref="char:EOLhyphen"/>moved <pb n="6" facs="tcp:101401:4"/>by the aboliſhing theſe Tenets, which were for that end therefore enjoyned? they may indeed thereby be taken away, but then 'tis probable that we may agree in the wrong. Or will our conſent in matters of Faith be the better confirmed and eſta<g ref="char:EOLhyphen"/>bliſhed, when it ſhall be lawful to believe as you will? For this it muſt come to, or elſe the next Seſſions at
+<hi>Weſtminſter</hi> muſt declare that which their Fathers Forty years ago, after long debate did, that they believed in God, <hi>&amp;c.</hi> (which ſome will be apt to disbelive of both) and then perhaps they may frame ſuch a Religion, as will not comprehend the greateſt number of Diſſenters ſtill, and then what good your Deſigns will do, I know not. Whatſoever courſe you follow, I cannot ſee but that you'll contradict the Judgments and Procedings of a wiſe King and his great Synod, who thought the framing (nay and the ſubſcribing too to the truth of) them, was the ſureſt Methods to take away all variety of Opinions, and liked not to break the beſt ſetled and compoſed Church, to make a Gap for any of the Sects (with which that time no leſs labored than ours) to come in at.</p>
+            <p>Are the Rites and Ceremonies of the Church of <hi>England</hi> looked upon ſo pleaſingly by the Sectaries, as not to draw thoſe Titles of Impious, Superſtitious, <hi>&amp;c.</hi> (as in <hi>Can.</hi> 6.) from them now? Or rather, are not thoſe one great Eye-ſore to the weak Brethren? Muſt thoſe therefore be given up to the inſatiable importunity of ſuch, as by their weakneſſes, ſcandalize the Brethren? If not, what reconciliation can there be? And if they muſt, what becomes of all thoſe famous Reaſons, of Decency, Reverence, Comlineſs, Union, Helps to Devotion,
+<hi>&amp;c.</hi> which muſt then all give place to pleaſure the petulant Hu<g ref="char:EOLhyphen"/>mor of a reſtleſs, unſatisfied race of Men? If they muſt all be left indifferent to every Perſon, to uſe as he ſhall think moſt fit, that is moſt likely to create the greater Miſchiefs than the determining of 'em one way or other, as you may ſee in the Sheet cited in the Margin (which I adviſe to the Reader for a careful peruſal in moſt of theſe Matters), and if they be quite taken away, you'll find the Fences of the Church
+<pb n="7" facs="tcp:101401:4"/>ſo miſerably broke, as able to let in all, even her very worſt Enemies, to the officiating in her; and then what ſort of ſtrength they'll be to that Church, whoſe Doctrines may be disbelieved or decried by them, you may either imagin, or ſee in the aforeſaid Letter.</p>
+            <p>In the Two next Canons I expect the leaſt alterations or oppoſitions from you; for there will ſcarce be ſound among you, unleſs it be them whoſe Worth debars from a Biſhop<g ref="char:EOLhyphen"/>rick (Demerit now being the ſure Promoter) that will ſo far oppoſe your own Intereſts, as either to deny the Validity of your Orders (tho one of you is ſhrewdly ſuſpected of inabi<g ref="char:EOLhyphen"/>lity to prove his being Chriſtned, and then conſequently —); or condemn the Diſciplines and Government of the Church by Biſhops, Deans,
+<hi>&amp;c.</hi> Were Self denial in practice now, I might be tempted to ſuſpect your warping from theſe Rules: But ſince deſire of Power, Authority, and Intereſt have got the aſcendant over Chriſtian Virtues, I imagin theſe may paſs uncorrected by you: But then how will they ſatisfie many of the Diſſenters, who cannot comply with them, theſe things not being <hi>Scoticiz'd?</hi> Will they be rul'd by that manner of Government, which they ſuppoſe Antichriſtian and Impious? Or if not, muſt they have another then for themſelves? And muſt the ſame Church then be rul'd by many different, con<g ref="char:EOLhyphen"/>trary Governments? Muſt the Presbyter have a diſtinct ſu<g ref="char:EOLhyphen"/>preme Government, and the Biſhop another? Muſt the Inde<g ref="char:EOLhyphen"/>pendent have a third; and yet all pleaſed, whilſt the contra<g ref="char:EOLhyphen"/>ry diſpleaſing Governments are not quite aboliſhed? Or will both or either of theſe, pleaſe to have theirs taken away, and ſubmit to that of the Church of
+<hi>England?</hi> If not, how will all theſe Contraries be reconciled to patch up one Communion?</p>
+            <p>How ſhall the Ninth Canon be made conformable to the winning of Diſſenters? The Independents, I believe, will ſcarce be prevailed with to part with their own conſociating Cove<g ref="char:EOLhyphen"/>nant; nor be content with our Churches Communion, but upon their own Terms. And the ſame mixt Communion, which was the occaſion of their reparation, will ſcandalize and hin<g ref="char:EOLhyphen"/>der
+<pb n="8" facs="tcp:101401:5"/>thoſe Diſſenters from uniting with us ſtill; muſt you there<g ref="char:EOLhyphen"/>fore bring in their way of Diſcipline into the Church (which the Church of <hi>England</hi> always has oppoſed) whereby a Pow<g ref="char:EOLhyphen"/>er muſt be given to ſome (perhaps of the worſt ſort of Men) to drive Myriads away from the participation of the Holy Supper?<note place="margin">Uni. Ox.
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ct. <hi>9.</hi>
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>&amp;c.</hi>
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. <hi>11.</hi>
+                  <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>c.</note> A kind of Auſterity, which we (with the Univerſity of <hi>Oxford</hi> may profeſs) know not to be command<g ref="char:EOLhyphen"/>ed by God; but which ſeems to be repugnant both to the Rules of Prudence and Chriſtian Love in general: and to S. <hi>Paul</hi>'s Counſel and Example in particular: For he, in a Church fill'd with Errors and Corruptions, both in Faith and Manners, after he had given command about one ſingular ex<g ref="char:EOLhyphen"/>communicated Perſon, who without ſhame had lived inceſtu<g ref="char:EOLhyphen"/>ouſly, to the great diſgrace and ſcandal of the Chriſtian Re<g ref="char:EOLhyphen"/>ligion; thought it then ſufficient to propoſe to the Church, in a general Form of Inſtruction, the great danger of unworthy Eating, and that the Scrutiny of particular Conſciences ſhould be left to every Mans own examination; no power being gi<g ref="char:EOLhyphen"/>ven to any, either Eccleſiaſtick-Paſtor, or Lay-Presbyter, of examining and excluding from that Holy Communion whom they thought fit. This was the Judgment of that famous U<g ref="char:EOLhyphen"/>niverſity, when Men were to be comprehended under the ſame Church. And I believe the <hi>Scotch</hi> Diſcipline, in this Point, will be ſuch, as neither we, they, nor our Fathers, are or were ever able to bear. What will you do then ill this Point, will you bring them into the Church, and keep them from the Com<g ref="char:EOLhyphen"/>munion? That, I am ſure, you all know to be the greateſt and moſt ſolemn part of Chriſtian Profeſſion: And which has therefore by ſome been underſtood in that Article, Of the Communion of Saints. Muſt they barely then be hearers of the Word, and not permitted the benefit of that, without which Salvation cannot ordinarily be expected? What Method there<g ref="char:EOLhyphen"/>fore can be taken to unite us in that part of Communion, but by receiving their auſtere Dictates of Diſcipline? Which will hinder more and better Men from uniting with you in it. They cannot be ſuppoſed, now (when all Conceſſions are made to
+<pb n="9" facs="tcp:101401:5"/>'em) to be more eaſie and inclinable, than when Severities were exerciſed, and Ruin threatned them for Non-complyance; nay they are never deſired to yield any thing towards the meeting, all muſt be done on the better ſide.</p>
+            <p>But when all theſe Conceſſions are made towards an Uni<g ref="char:EOLhyphen"/>on; do you now think, that thoſe will be won, whole Sepa<g ref="char:EOLhyphen"/>ration is upon account of great Admiration to their Preachers; without having thoſe ſame Preachers lawfully admitted to ex<g ref="char:EOLhyphen"/>erciſe their Office here too? What becomes then of your 10th. and 36th. Canon? Muſt the required Subſcriptions to the truth of the Articles, lawfulneſs of the Liturgy, and perpetual uſe of that and no other Form, be now taken away to gratifie them? Are not theſe looked upon as great Fences, whereby to ſecure the Church from having bad Paſtors of another Perſwa<g ref="char:EOLhyphen"/>ſion in it? Muſt Epiſcopal Ordination be look'd on now no more neceſſary, than theirs who never had Authority to con<g ref="char:EOLhyphen"/>fer it? Or do you think thoſe unconſecrated Preachers, will uſe that Liturgy, or teach that Doctrine, to the truth and law<g ref="char:EOLhyphen"/>fulneſs of which they dare not ſubſcribe? But I refer you to ſatisfie more Queſtions on this head, to the afore-cited Sheet.</p>
+            <p>Since then the Liturgy, Homilies, and Canons (compiled by our judicious Forefathers, ſome of whom were Confeſſors and Martyrs for that holy Religion) were both compoſed for the greater edification of the Church, removing all Differen<g ref="char:EOLhyphen"/>ces, confirming and eſtabliſhing all matters of Faith; muſt not we then of neceſſity ſuppoſe, that the altering, aboliſhing, or annulling of 'em will have the contrary effects? Shall one Age order all theſe things, the ſtrict obſervance of which was to promote the eſtabliſhment of the Church; and the follow<g ref="char:EOLhyphen"/>ing, tho grown much wiſer in the certain Truth of it, take 'em away for the very ſame reaſon? Our Church was uſually thought affected with the very worſt Maladies and Diſtempers, and under the greateſt Dangers; when ſome of her Miniſters, not ſticking cloſe to their Subſcriptions, too near approached and conformed to the Humor of theſe infirm Diſſenters; but now, it muſt be looked on as the greateſt ſtrengthning of it, <pb n="10" facs="tcp:101401:6"/>to have ſome of thoſe ill affected, infirm Perſons, make up a Member of her. The Eccleſiaſtical Phyſicians uſed to raiſe her drooping Spirits, by clearing her of all the ill Blood in her Veins: But now, theſe are to effect the ſame Cure, by infuſ<g ref="char:EOLhyphen"/>ing more ill Blood, and worſe, into her. The beſt framed Conſtitution in the whole World is now to be taken away, to make it much more great and ſure without, or elſe with a much weaker one.
+<note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n Ox <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ct.
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>c
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>1</hi> &amp;c</note> If any thing ſhould be altered in any Congregation, why not in thoſe who cannot defend themſelves by Antiquity or Goſpel? Why in that, where nothing un<g ref="char:EOLhyphen"/>lawful, unneceſſary, ſuperſtitious, or hurtful is contained; and whoſe Fault only is, that they are commanded? If the lawful Superior's Command, make a thing that is lawful to be uſed to become unlawful, what fruits can you expect in this your deſigned Labor? Will not the ſame Authority of Convocation, King, Lords, and Commons, be the ſame thing to them now, as it has been ſome Years laſt part? Or will there be nothing done and ordered to be done in the Church now by the ſame Authority? If not, 'tis likely to be a very glorious Conſtitu<g ref="char:EOLhyphen"/>tion: But if there muſt, I know not how they will comply; eſpecially ſince to morrows Thoughts may alter the nature of this days Action, and ſince they are ſo unfix'd and unſetled in their judgments. And what good your Deſign will do with ſome ſort of the Diſſenters, you may already ſee in a Letter concerning Toleration.</p>
+            <p>The Perſons whom you are to bring in unto the Churches Communion, are ſuch, as I believe, are deſignedly compre<g ref="char:EOLhyphen"/>hended under theſe beforementioned Third, to the Tenth Ca<g ref="char:EOLhyphen"/>nons: If ſo, then having been guilty of thoſe Faults, againſt the which thoſe Rules are made, they ſtand excommunicated by virtue of that Convocation: Can ſuch therefore be made Members of our Church, who are excluded out of it by the whole Church? Have the Canons left any way for their Re<g ref="char:EOLhyphen"/>ſtoration to the Church, but by their repenting, and publick<g ref="char:EOLhyphen"/>ly revoking thoſe their impious Errors; and are they willing and ready to do it? But then you will reply, That a Convo<g ref="char:EOLhyphen"/>cation
+<pb n="11" facs="tcp:101401:6"/>ſhall take off that Excommunication which a Convoca<g ref="char:EOLhyphen"/>tion laid on; ſo that they may then be lawfully admitted Members of the Church, becauſe that the ſame Power which made a Law can annul it again (which remember anon). But by what Authority do you pretend to reſtore them to the Church, whom upon many caſes can only be abſolved and reſtored by the Arch-Biſhop? Can you, his Inferiors, without his leave, do that which is only left for him to do? And ſome of the Bi<g ref="char:EOLhyphen"/>ſhops, and inferior Clergy, do their Superior's Office, him gainſaying? But if you betake your ſelves to your own Au<g ref="char:EOLhyphen"/>thority again, which will oblige him and comprehend him with the reſt: Conſider with your ſelves whether the Metropolitan of all <hi>England</hi> have nothing to do in the Alterations of the Church. —And one thing I would not have you to forget, that by this your acting, you will make many Orthodox Sons or the Church, who cannot allow of your Authority, plead from your mixt Communion the unlawfulneſs too of joyning with you: For they knowing by what Authority theſe Sects were excommunicated, and that with ſuch Perſons, till reſtor<g ref="char:EOLhyphen"/>ed, they are not to communicate with in any holy Offi<g ref="char:EOLhyphen"/>ces; and approving not of this Authority by which the Ex<g ref="char:EOLhyphen"/>communication is pretended to be taken off, will be migh<g ref="char:EOLhyphen"/>ty prone to ſhun thoſe Congregations where ſuch mixtures are allowed, and ſeparate from all the new model'd Churches, And ſince I am fallen upon the Inconveniences which will fall upon thoſe who dare be Orthodox, let me deſire you to take care of one thing, That you be not the occaſion of utter Deſtruction to many of your Brethren the Clergy: For there may be found ſome, (who have ſworn with ſuch a Declaration, as not to own any preſent lawful Au<g ref="char:EOLhyphen"/>thority) who will be apt to entertain Doubts concerning the Lawfulneſs of your Authority: And ſince the chief Primate and Metropolitan of all
+<hi>England,</hi> and many more of the Bi<g ref="char:EOLhyphen"/>ſhops Souls enter not into your Conſultations, nor conſent to your Injunctions, they will be extremely puzzled to find out the <pb n="12" facs="tcp:101401:7"/>Lawfulneſs and Authority of your Determinations: And ſince that they know themſelves obliged by their frequent Subſcrip<g ref="char:EOLhyphen"/>tions (contained in the 36th. Canon) to ſtand to theſe Canons and Homilies, and to uſe this Liturgy and no other, that we have already by a lawful Authority; and knowing of the great Puniſhment due to Prevaricators after Subſcription, in the 38th. Canon (which tho it may not be inflicted, yet will however preſuppoſe a Fault, which by a good Man will be as fearfully avoided and carefully ſhunned, as if the Puniſhment was to follow); they therefore will conſcientiouſly ſtick to their for<g ref="char:EOLhyphen"/>mer Subſcriptions, and ſuffer what their unkind Brethren, not Enemies, ſhall lay upon them: And this liberty you muſt allow 'em from your own Principles, or elſe loſe your own Argument juſt above, That no Power can alter, or abrogate a Law, but the ſame that made it. A lawful King, and all other the Eſſentials of a lawful Authority, have obliged them to the defending of theſe Rules for ever, unleſs alter'd again by the ſame lawful Authority that made them; and if they cannot find ſuch Authority in your Injunctions, as to annul their former Obligations, blame not their Reaſons, but your own Actions: Whatſoever Reaſons the Biſhop of <hi>Rocheſter</hi> had to act in the late Eccleſiaſtical Commiſſion; yet when he ſaw it was levell'd at the Deſtruction of his Brethren, he thought it his Duty then to deſiſt from any further acting, and rather ſuffer in the ſame Cauſe with them; if ſo it had been the pleaſure of his King All good Men applauded that Action of his Lordſhip; and if I miſtake not, you would willingly have the repute of as good Men as He. Conſider therefore, before it be too late.</p>
+            <p>I am ſure our Anceſtors (and perhaps ſome of you now liv<g ref="char:EOLhyphen"/>ing) were of another mind once, when the Church of <hi>England</hi> had great reaſon to have comply'd, if neceſſity could have ju<g ref="char:EOLhyphen"/>ſtified any unlawful Uniting: For when the Sectaries would correct and aboliſh our Liturgy and Diſcipline, and ſet up their own by Authority of Parliament, and no other thing would (as indeed it ſcarce ever will) cauſe their agreement with us: You <pb n="13" facs="tcp:101401:7"/>well know how bravely the poor Church then withſtood and oppoſed all ſuch endeavours. Many things then were ſent forth to ſhew the Reaſons of their Diſſent, and have ever ſince had the Eſteem and Character of Truth and Greatneſs: Some of which (becauſe not unfit for this preſent affair) I'll now in ſhort recite to you, and of the many then writ, only chuſe thoſe of the Univerſity of
+<hi>Oxford,</hi> and that for more Reaſons than one.</p>
+            <p>
+               <note place="margin">Jud. U<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <hi>Ox.</hi> 
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 47. Se<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note>
+               <hi>We cannot, for certain, ſay they, obey the Orders of the Seſ<g ref="char:EOLhyphen"/>ſions of both Houſes, without Sin, they having not been approv<g ref="char:EOLhyphen"/>ed by the King's conſent.</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>1ſt. Eſpecially thoſe which not only command things contrary to the Laws and Statutes of this Realm eſtabliſhed by the unanimous conſent of King, Peers, and Commons in Parliament.</hi>
+               </item>
+               <item>
+                  <hi>2ly. But alſo, becauſe they annul and abrogate thoſe Laws and Statutes: For when 'tis only in their power to caſſate, in whoſe 'tis to make; we cannot think it lawful, for an infe<g ref="char:EOLhyphen"/>rior Power to reſcind and annul, that which was lawfully done by a Superior.</hi>
+               </item>
+               <item>
+                  <note place="margin">Stat. <hi>Eliz</hi>
+                  </note>
+                  <hi>3ly. Eſpecially, when the whole Power of Juriſdiction in Eccle<g ref="char:EOLhyphen"/>ſiaſtical things, is in moſt expreſs Words of the Law, for ever joyned and annexed to the Imperial Crown of this Realm.</hi> And to whoſe Head that Diadem of right belongs, no Subject ought to be ignorant.</item>
+            </list>
+            <p>
+               <note place="margin">Sect</note>
+               <hi>Nay, ſay they, We cannot comply to a Reforming the Religion of this Kingdom, in its Doctrine, Worſhip, Diſcipline, and Rule, (when Reformation neceſſarily and formally in its ſelf includes a Change.)</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>1ſt. Without manifeſt Scandal to Papiſts and Separatiſts: For,</hi>
+               </item>
+               <item>
+                  <hi>1ſt. We ſhall deſert the moſt juſt Cauſe, which Biſhops and Martyrs, and other learned Divines have ſtrenuouſly defended again ft the Enemies on both hands.</hi>
+               </item>
+               <item>
+                  <note place="margin">Ha<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſut Ap c. 2</note>
+                  <hi>2ly. We ſhall give greater occaſion to the Papiſts of defaming our Religion, of objecting we know not where to have it, and that 'tis a Parliamentary Religion.</hi>
+               </item>
+               <pb n="14" facs="tcp:101401:8"/>
+               <item>
+                  <hi>3ly. We ſhall acknowledg ſomething in our Doctrine and Wor<g ref="char:EOLhyphen"/>ſhip, not conſentaneous to the Word of God, whence will be given a juſt excuſe to the one of his Recuſancy, and to the other of ſeparation from the Communion of our Church.</hi>
+               </item>
+               <item>
+                  <hi>2ly. Nor can it be done without manifeſt Injury to our ſelves; for thereby we give falſe Teſtimony againſt our ſelves, if we reform that Religion (as depraved or vicious).</hi>
+               </item>
+               <item>
+                  <hi>1ſt. Which by our Subſcriptions before we have attteſted to be conſentaneous to the Word of God; of which thing we have never repented.</hi>
+               </item>
+               <item>
+                  <hi>2ly. Which by a firm perſwaſion we believe not to be contrary to the Word of God, in any of thoſe Four, or any other things.</hi>
+               </item>
+               <item>
+                  <hi>3ly. Which we rationally conclude to be many ways better, and more agreeing to the Word of God, and practice of the Catholick Church, than</hi>
+               </item>
+               <item>
+                  <hi>To which Religion every Clerk that is to be admitted to any Eccleſi<g ref="char:EOLhyphen"/>aſtical Benefice, is to give his conſent, as alſo to the</hi> 39 <hi>Articles.</hi>
+               </item>
+               <item>
+                  <hi>3ly. Nor can it be done without manifeſt danger of Perjury; for that will be contrary,</hi>
+               </item>
+               <item>
+                  <hi>1ſt. To our ſolemn Vow and Proteſtation, which we have pro<g ref="char:EOLhyphen"/>miſed moſt religiouſly to obſerve; and neither through fear, hope, or any other reaſon to forſake; which Doctrine is the ſame now
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> be reformed and changed.</hi>
+               </item>
+               <item>
+                  <note place="margin">Pref. <hi>
+                        <g ref="char:V">Ʋ</g>ſh.</hi>
+                     <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> of
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ince. 14 <hi>
+                        <gap reason="illegible" resp="#OXF" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ed.
+<gap reason="illegible" resp="#OXF" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>ig.</hi>
+                     <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>7. XI. 4.4.</note>
+                  <hi>2ly. To the Oath of Supremacy taken ſo oft by us; in which we before profeſſed, our Conſciences bearing witneſs, That the King's Majeſty is the only ſupreme Moderator of this King<g ref="char:EOLhyphen"/>dom; and then calling God to witneſs, That we will to the uttermoſt of our power aſſiſt and defend all and all manner of Juriſdictions, Priviledges, Preeminences and Authorities whatſoever, either given and granted to the King's Majeſty, His Heirs and Succeſſors, or joyn'd and annex'd to the Im<g ref="char:EOLhyphen"/>perial Crown of this Realm. One of which Juriſdictions and Preeminences is the power of Spiritual and Eccleſiaſtical Juriſdiction, for correcting and reforming all and all man<g ref="char:EOLhyphen"/>ner of Errors and Abuſes in things Eccleſiaſtical.</hi>
+               </item>
+            </list>
+            <pb n="15" facs="tcp:101401:8"/>
+            <p>
+               <hi>Whence it is manifeſt that we cannot without great injury and hurt to the Kings Majeſty, and ſin of Perjury, attempt any Change in things or Laws Eccleſiaſtical, the King not being conſulted;</hi> un<g ref="char:EOLhyphen"/>leſs we had a Right to, and intention of abſolving our ſelves from the bond of that Allegiance, which after the One God, is owing to the King's Majeſty, <hi>and to whoſe Faith is intruſted the defence of Eccleſiaſtical Rights.</hi>
+            </p>
+            <p>Theſe are an Abbreviation of ſome of our famous Anceſtors Reaſons, in defence of the ſame Proteſtant Church, againſt Presbyterian Accommodations. And it is no wonder to ſee truly conſcientious, peaceable Men, oppoſing ſuch Union, as muſt tend to the deſtroying the True Church and her Orthodox Children. If Faith may be given to the Diſſenters Caſes, and Dr. <hi>Beveridge</hi>'s Sermon; our preſent Conſtitution is the beſt for all ends of Worſhip and Devotion, that ever was; that none of the Diſſenters can ever prove any thing unlawful, nay unneceſſary in her; and then what reaſon there is to make any Alterations for an approach towards them, I know not, un<g ref="char:EOLhyphen"/>leſs it be to confeſs their ways better. If the great reaſons of Union, Decency, Edification, Harmony, Order, and Reverence, be now no longer weighty in matters of Worſhip and Devo<g ref="char:EOLhyphen"/>tion; they might eaſily give them up: But if thoſe may ſeem, as lately they did, ſufficient to perſwade any Man, convinced of the lawfulneſs of them, to joyn in Communion with us; what need have we to change for any of thoſe ways, which are encombred with the contraries of theſe, unleſs it be to ſhew the World, that we lay but little weight upon Prayer, which it does too juſtly (I would it had no reaſon to) think ſo already.</p>
+            <p>I am not againſt the Union of Proteſtants, but do moſt heartily wiſh and pray for it; only I would have it compaſſed without any thing of unlawfulneſs, or hurt to the Church of <hi>England.</hi> If the Diſſenters cannot with reaſon be perſwaded to a communicating with us, I know none we have to debaſe our Church to theirs. Do they deſire the Union? Let 'em act then <pb facs="tcp:101401:9"/>like Men not Children, and ſhew the unlawfulneſs or inex<g ref="char:EOLhyphen"/>pediency of any of our Conſtitutions. If that they either will not, or cannot, but are reſolved to continue in their Expecta<g ref="char:EOLhyphen"/>tions of the Church of <hi>Englands</hi> complying; let them for a time content themſelves with what Liberty they now enjoy, till a better opportunity ſerves of a lawful Uniting; and then they'll find none more ready, or more glad of it than</p>
+            <closer>
+               <signed>
+                  <hi>The True and Orthodox Sons of the Church of</hi> England.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed in the Year 1689.</p>
+            <pb facs="tcp:101401:9"/>
+         </div>
+      </back>
+   </text>
+</TEI>
